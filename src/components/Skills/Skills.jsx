@@ -9,7 +9,7 @@ import { Element } from 'react-scroll';
 function Skills() {
   return (
     <Element name="skills-section" className="skills">
-      <div style={{ textAlign: 'center', padding: '50px 20px', backgroundColor: '#f9f9f9' , }}>
+      <div style={{ textAlign: 'center', padding: '50px 20px', backgroundColor: '#f9f9f9' }}>
         <h1 style={{ marginBottom: '30px' }}>MY SKILLS</h1>
         
         <div 
