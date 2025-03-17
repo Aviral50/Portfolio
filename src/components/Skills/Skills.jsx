@@ -3,8 +3,8 @@ import css from '../Skills/css-3.png';
 import html from '../Skills/html.png';
 import js from '../Skills/js.png';
 import structure from '../Skills/structure.png';
-import './skills.css';
 import { Element } from 'react-scroll';
+import './Skills.css';
 
 function Skills() {
   return (
