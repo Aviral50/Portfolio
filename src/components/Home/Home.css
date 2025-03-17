@@ -1,0 +1,81 @@
+
+  .home{
+    height: 100vh;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ensure space between image and text */
+ }
+.home-img{
+    
+    flex: 1; /* Allow image to take up available space */
+    margin-left: 100px;
+    gap : 0;
+}
+.home-text{
+    flex: 1; /* Allow text to take up available space */
+    width: 20vw;
+    background-color:cadetblue;
+     margin-right: 80px;
+}
+
+.home-photo {
+    width: 250px;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+.download-btn {
+    background-color:chocolate; /* Blue color */
+    color:black;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-top: 10px;
+    display: block;
+}
+
+.download-btn:hover {
+    background-color: #0056b3; /* Darker blue */
+}
+.typed-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Media query for mobile devices */
+@media (max-width: 400px) {
+    .home {
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    
+
+  
+    .home-text {
+      font-size: 12px; /* Adjust font size for mobile */
+      width: auto; /* Adjust width for mobile */
+      margin: auto;
+      
+    }
+    .home-img{
+      margin: auto;
+        width: auto;
+        height: auto;
+        
+    }
+    
+  }
+
+  

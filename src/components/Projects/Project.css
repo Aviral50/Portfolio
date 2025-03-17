@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+     /* Hide overflow to prevent scrollbars */
+     /* Include padding and border in the element's total width and height */
+  }
+  
+  .container {
+   background-color:darkgrey;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+  
+  @media(max-width:400px){
+    .container{
+      height:auto;
+    }
+  }
