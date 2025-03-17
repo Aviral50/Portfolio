@@ -12,7 +12,7 @@ function Project() {
   <div class="card-body">
     <h5 class="card-title">Portfolio Website</h5>
     <p class="card-text">I make this portfolio website using Html, Css, Bootstrap and React Js </p>
-    <a href="" class="btn btn-primary">click to see website</a>
+    <a href="aviralportfolioo.netlify.app" class="btn btn-primary">click to see website</a>
   </div>
   <div class="card-footer text-body-secondary">
     
@@ -26,7 +26,7 @@ function Project() {
   <div class="card-body">
     <h5 class="card-title">YOG CENTRE WEBSITE</h5>
     <p class="card-text">I created  this website using Html, Css, Bootstrap and Sheetdb forms</p>
-    <a href="http://yogcentrewebsite.netlify.app/" class="btn btn-primary">click to see website</a>
+    <a href="yogcentre.netlify.app" class="btn btn-primary">click to see website</a>
   </div>
   <div class="card-footer text-body-secondary">
     
