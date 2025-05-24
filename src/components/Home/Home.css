@@ -67,8 +67,7 @@
       font-size: 18px; /* Adjust font size for mobile */
       width: auto; /* Adjust width for mobile */
       margin: auto;
-      height:50px;
-      
+      height: 10vh;
     }
     .home-img{
       margin: auto;

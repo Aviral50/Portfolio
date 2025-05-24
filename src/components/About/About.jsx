@@ -11,9 +11,9 @@ function About(){
         <p> <h6>Master of Computer Applications</h6>I completed my MCA from Feroze Gandhi Institute of Engineering and Technology, Raebareli, India.</p>
         <p><h6>Bachelor of Science</h6> I completed my BSC from Chhatrapati Shahu Ji Maharaj University, Kanpur,Uttar Pradesh, India</p>
         <h3>Skills</h3>  
-        <p>Knowledge of Html Css Javascript Bootstrap and React JS</p>
+        <p>Knowledge of Html , Css , Javascript , NodeJs , ExpressJs , MySql , React</p>
         <h3>Interest</h3>  
-        <p>Interest in making best user-freindly websites using my frontend development skills</p>
+        <p>Interest in making best user-freindly websites using my development  skills</p>
   </div>
     
 </Element>    
