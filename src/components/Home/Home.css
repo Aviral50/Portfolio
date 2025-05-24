@@ -64,9 +64,10 @@
 
   
     .home-text {
-      font-size: 12px; /* Adjust font size for mobile */
+      font-size: 18px; /* Adjust font size for mobile */
       width: auto; /* Adjust width for mobile */
       margin: auto;
+      height:50px;
       
     }
     .home-img{

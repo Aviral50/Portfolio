@@ -22,13 +22,13 @@ function Home() {
               />
             </div>
             <a href={resume}> <div className="download-btn">
-                My resume 
+               Download My resume 
               </div>
               </a> 
        
         <div className="home-text">
-          <p style={{height:'100px'}}>Hello i am Aviral Mishra  i am a frontend web developer . I make user freindly websites
-            and enhance their presence in internet 
+          <p style={{height:'100px'}}>Hello i am Aviral Mishra  i am a  developer . I make user freindly websites
+            and enhance their presence in internet  using my skills 
           
           </p>
       
